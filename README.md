@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peige Malys
+Hey 👋 my name is Peige
 ===================================================================================================================================
 
-Data Analyst
-------------
-
-Diving headfirst into the exhilarating world of data analytics and programming. Certified by Google in Data Analytics and Advanced Data Analytics. Over 10 projects utilizing: Python, SQL, Excel & Tableau.
+Over the past few years, I've dived headfirst into the exhilarating world of data analytics and programming. Certified by Google in Data Analytics and Advanced Data Analytics. Over 10 projects utilizing: Python, SQL, Excel & Tableau.
 
 * 🌍  I'm based in Asheville, NC
 * ✉️  You can contact me at [Peige77@gmail.com](mailto:Peige77@gmail.com)
