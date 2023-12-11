@@ -1,4 +1,4 @@
-Hey 👋 my name is Peige
+Hey there 🤙 I'm Peige
 ===================================================================================================================================
 
 Over the past few years, I've dived headfirst into the exhilarating world of data analytics and programming. Certified by Google in Data Analytics and Advanced Data Analytics. Over 10 projects utilizing: Python, SQL, Excel & Tableau.
