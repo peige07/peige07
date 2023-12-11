@@ -5,7 +5,7 @@ Over the past few years, I've dived headfirst into the exhilarating world of dat
 
 * 🌍  I'm based in Asheville, NC
 * ✉️  You can contact me at [Peige77@gmail.com](mailto:Peige77@gmail.com)
-* 🚀  I'm currently working on [an EDA of covid statistics](http://https://github.com/peige07/Covid-Analysis/blob/main/Covid_Analysis_SQL.ipynb)
+* 🚀  [Check out some of my portfolio projects showcasing advanced SQL, Python, Excel & Tableau Dashboards](http://github.com/peige07/Analytics-Portfolio)
 
 ### Skills
 
